@@ -37,6 +37,22 @@ One of the best online discussion places for up and coming game developers.  The
 
 gamedev.net, provides a more advanced discussion place for game development, but does have considerable resources for beginners.  The forums are an amazing place to interact with other game developers, ask questions regarding your game design, coding, or any other problem you may be facing.
 
+-[Blender](http://www.blender.org/)
+
+Blender is free, open source 3D modeling software.
+
+-[Sculptris](http://pixologic.com/sculptris/)
+
+Sculptris is free sculpting software from the creators of zBrush.  Extremely powerful.
+
+-[Paint.net](http://www.getpaint.net/)
+
+Paint.net is a free 2D drawing software that can be used to create general 2D art, including pixel art.  Has a wide range of tools for being completely free, comparable to Photoshop or Corel Painter.
+
+-[Notepad++](http://notepad-plus-plus.org/)
+
+Notepad++ is a free program that works like an improved version of Notepad to provide useful functions for programmers, allowing it to open, modify, and understand a variety of different file types and programming languages.
+
 - [Steam Workshop](http://steamcommunity.com/workshop/)
 - [Steam Workshop Team Fortress 2](http://steamcommunity.com/workshop/browse?appid=440&browsesort=trend)
 - [Steam Workshop Dota2](http://steamcommunity.com/workshop/browse?appid=570&browsesort=trend)
@@ -61,4 +77,6 @@ Indie publishing service provided through Steam that allows the community to vot
 - [CSUSB System Administration Flowchart](http://cse.csusb.edu/programs/ba_computer_systems/System_administration_option_2012_2014.pdf)
 	
 Just an example of a local college that offers a range of computer science-related majors, including general computer science, computer engineering, game development, web programming, graphics programming, and system administration.
+
+![](http://i.imgur.com/wjANVCD.jpg)
 	
