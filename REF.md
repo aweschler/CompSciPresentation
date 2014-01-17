@@ -1,6 +1,6 @@
-## References
+# References
 
-#Places to get started:
+##Places to get started:
 
 - [Code.org](http://code.org/)
 - [Their Youtube Video](http://www.youtube.com/watch?v=nKIu9yen5nc)
@@ -20,14 +20,16 @@ Khan Academy, an amazing website that provides both introductory and advanced tu
 tuts+, provides highly specialized tutorials into more advanced computer-based processes, mainly focusing on web development and graphic design.
 
 
-#For game development:
+##For game development:
 
 - [Unity3D](http://unity3d.com/unity)
 - [Download Link](http://unity3d.com/unity/download)
+- [List of game made with Unity](http://unity3d.com/gallery/made-with-unity/game-list)
 
 A free to start 3D game design engine (although it has recently greatly increased its capacity to develop 2D games).  Has basic publishing support for iOS, Android, Windows Store, Windows Phone, Blackberry, desktop, and web.
 
 - [r/gamedev](http://www.reddit.com/r/gamedev)
+- [r/gamedev Definitive Guide On Getting Started](http://www.reddit.com/r/gamedev/comments/1un7bf/2014_face_lift_revised_rules_definitive_how_to/)
 
 One of the best online discussion places for up and coming game developers.  The sidebar provides a ton of resources to help you begin and advance your game design.  From art assets, programming, sound, marketing, business.  An amazing place to browse and begin from.
 
@@ -35,8 +37,19 @@ One of the best online discussion places for up and coming game developers.  The
 
 gamedev.net, provides a more advanced discussion place for game development, but does have considerable resources for beginners.  The forums are an amazing place to interact with other game developers, ask questions regarding your game design, coding, or any other problem you may be facing.
 
+- [Steam Workshop](http://steamcommunity.com/workshop/)
+- [Steam Workshop Team Fortress 2](http://steamcommunity.com/workshop/browse?appid=440&browsesort=trend)
+- [Steam Workshop Dota2](http://steamcommunity.com/workshop/browse?appid=570&browsesort=trend)
+- [Steam Workshop Counter Strike Global Offensive](http://steamcommunity.com/workshop/browse?appid=730&browsesort=trend)
 
-#College resources:
+Steam Workshop, a great service provided to get custom content officially added to games (if your stuff gets accepted, you get money!).
+
+- [Steam Greenlight](http://steamcommunity.com/greenlight/)
+
+Indie publishing service provided through Steam that allows the community to vote submitted games to the top for Steam to add to the official store.
+
+
+##College resources:
 
 - [CSUSB Computer Science](http://cse.csusb.edu/)
 - [CSUSB General Computer Science Flowchart](http://cse.csusb.edu/programs/bs_computer_science/Computer_science_2012_2014.pdf)
