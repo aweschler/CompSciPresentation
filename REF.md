@@ -1,6 +1,6 @@
 ## References
 
-Places to get started:
+#Places to get started:
 
 - [Code.org](http://code.org/)
 - [Their Youtube Video](http://www.youtube.com/watch?v=nKIu9yen5nc)
@@ -11,7 +11,7 @@ Code.org, website designed to introduce people to coding in a basic, approachabl
 
 Codecademy, a more hands on approach to introductory coding and beyond.  Not as pretty as Code.org, but provides a much more extensive introduction to programming, as well as bridging the gap the more advanced programming concepts.
 
-- [Khan Academy}(https://www.khanacademy.org/cs)
+- [Khan Academy](https://www.khanacademy.org/cs)
 
 Khan Academy, an amazing website that provides both introductory and advanced tutorials.  This website is also not just limited to Computer Science!
 
@@ -20,7 +20,7 @@ Khan Academy, an amazing website that provides both introductory and advanced tu
 tuts+, provides highly specialized tutorials into more advanced computer-based processes, mainly focusing on web development and graphic design.
 
 
-For game development:
+#For game development:
 
 - [Unity3D](http://unity3d.com/unity)
 - [Download Link](http://unity3d.com/unity/download)
@@ -36,7 +36,7 @@ One of the best online discussion places for up and coming game developers.  The
 gamedev.net, provides a more advanced discussion place for game development, but does have considerable resources for beginners.  The forums are an amazing place to interact with other game developers, ask questions regarding your game design, coding, or any other problem you may be facing.
 
 
-College resources:
+#College resources:
 
 - [CSUSB Computer Science](http://cse.csusb.edu/)
 - [CSUSB General Computer Science Flowchart](http://cse.csusb.edu/programs/bs_computer_science/Computer_science_2012_2014.pdf)
